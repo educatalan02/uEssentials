@@ -9,7 +9,7 @@ using Essentials.Core;
 [assembly: AssemblyDescription("uEssentials Project")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("uEssentials")]
+[assembly: AssemblyProduct("uEssentials Fix")]
 [assembly: AssemblyCopyright("2015-2018 Leonardosnt (leonardosnt@outlook.com)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
